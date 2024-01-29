@@ -1,0 +1,12 @@
+nav {
+    display:  flex;
+    flex-wrap: nowrap;
+    justify-content:  center;
+    margin: 10px;
+}
+
+image {
+    display: flex;
+    justify-content: left;
+    width: 5px;
+}
